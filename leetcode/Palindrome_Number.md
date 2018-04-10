@@ -1,6 +1,4 @@
-#9. Palindrome Number <br>
+leetcode-9. Palindrome Number <br>
 ====
-##Description <br>
----
-###Determine whether an integer is a palindrome. Do this without extra space. <br>
+Description Determine whether an integer is a palindrome. Do this without extra space. <br>
 ---
