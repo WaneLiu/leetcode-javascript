@@ -23,4 +23,3 @@ Description: determine whether an integer is a palindrome. Do this without extra
         return true;
     };
 ---
-![](http://www.baidu.com/img/bdlogo.gif)  
